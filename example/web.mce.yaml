@@ -1,0 +1,8 @@
+name: codemao-mod-editor
+version: 1.0
+type: web
+description: codemao mod editor
+requires:
+ - web.codemao-mod-editor.desktop
+ - web.codemao-mod-editor.svg
+ - cme.asar
